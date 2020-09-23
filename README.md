@@ -1,0 +1,2 @@
+# NIC_Diagnostic
+ストレージアカウント内のNICの診断ログ検知
